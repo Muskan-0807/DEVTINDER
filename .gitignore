@@ -1,0 +1,6 @@
+node_modules/
+constants/secrets.js
+app1.js
+
+.env
+.env.*
